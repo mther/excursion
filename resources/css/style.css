@@ -1,0 +1,31 @@
+body{
+    background-color: #000;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: normal;
+    color: #fff;
+}
+
+h4 a{
+    font-size: 16px;
+    color: #7fffd4;
+}
+
+h3{
+    font-family: Verdana;
+    font-size: 21px;
+    color: #808080
+}
+
+.comingSoon{
+    padding-top: 50px;
+}
+
+footer{
+    text-align: right;
+    color: #808080
+}
